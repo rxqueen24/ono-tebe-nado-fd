@@ -161,6 +161,7 @@ main {
 .lots__card-list-item {
   width: 334px;
   min-height: 596px;
+  list-style: none;
 }
 
 .card-link {
@@ -209,10 +210,6 @@ main {
   font-size: 20px;
   position: relative;
   z-index: 2;
-}
-
-.lots__card-list-item {
-  list-style: none;
 }
 
 .card_type_film {
