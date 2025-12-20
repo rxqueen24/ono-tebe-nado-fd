@@ -56,7 +56,7 @@ main {
 }
 
 .address__header {
-  max-width: 240px;        
+  max-width: 240px;
   justify-self: end;
 }
 
@@ -318,7 +318,7 @@ main {
 }
 
 .address__footer {
-  max-width: 265px;        
+  max-width: 265px;
   justify-self: start;
 }
 
