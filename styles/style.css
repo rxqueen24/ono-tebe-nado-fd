@@ -149,6 +149,7 @@ main {
   font-size: 22px;
   text-transform: uppercase;
   color: #fff;
+  cursor: pointer;
 }
 
 .lots {
@@ -320,12 +321,6 @@ main {
 .address__footer {
   max-width: 265px;
   justify-self: start;
-}
-
-.address__footer a {
-  text-decoration-line: underline;
-  text-decoration-thickness: 1px;
-  text-underline-offset: 4px;
 }
 
 .footer__menu {
